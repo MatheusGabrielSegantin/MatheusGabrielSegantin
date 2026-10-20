@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**MatheusGabrielSegantin/MatheusGabrielSegantin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h2>💻 Tecnologias que utilizo</h2>
 
-Here are some ideas to get you started:
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,flask,mysql&theme=dark" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <h2>📂 Meus Repositórios</h2>
+
+  <a href="https://github.com/SEU_USUARIO/REPOSITORIO1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=REPOSITORIO1&theme=tokyonight" />
+  </a>
+
+  <a href="https://github.com/SEU_USUARIO/REPOSITORIO2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SEU_USUARIO&repo=REPOSITORIO2&theme=tokyonight" />
+  </a>
+
+</div>
